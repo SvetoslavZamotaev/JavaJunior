@@ -130,6 +130,9 @@ public class QueryBuilder {
             query.append(tableAnnotation.name()).append(" WHERE ID = \'")
                     .append(primaryKey).append("\'");
         }
+        else{
+            return null;
+        }
         return query.toString();
     }
 
