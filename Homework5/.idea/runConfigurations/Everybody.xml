@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Everybody" type="CompoundRunConfigurationType">
+    <toRun name="org.client main (1)" type="Application" />
+    <toRun name="org.client main (2)" type="Application" />
+    <toRun name="org.client main (3)" type="Application" />
+    <toRun name="org.server.Main" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>
